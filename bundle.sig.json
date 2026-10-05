@@ -1,0 +1,8 @@
+{
+  "alg": "ed25519",
+  "key_id": "content-2026",
+  "public_key": "5yK0/TMYHZTfMHbNLk3I8Yo7deaxy/VYwnsqVD4Htfo=",
+  "signature": "lsHAyeG6cTerfHcHJh0qzqxTSDNu0CsdK+3Fam0HsZqFW6jWLvw0syo1kNZ8fiaOYFp+8AWrbhkvAYlLVuDoAw==",
+  "sha256": "ff1be12daddc0abe0331d68b687d73f64bf5084c8457b96de894d30a07f6013e",
+  "signed_at": "2026-10-05T04:39:30.726149Z"
+}
